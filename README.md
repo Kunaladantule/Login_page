@@ -1,2 +1,2 @@
 # Login_page
-After learning basic concepts of HTML, CSS I created an Login page for my practice.
+After learning basic concepts of HTML and CSS I created a Login page for my practice.
